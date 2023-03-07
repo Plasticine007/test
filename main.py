@@ -14,7 +14,7 @@
 #     print_hi('PyCharm')
 #     print('Hello Word')
 #     print('Hello Word')
-
+print('Hello Word')
 print('Hello Word')
 print('Hello Word')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
